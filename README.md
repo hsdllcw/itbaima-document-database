@@ -1,2 +1,2 @@
 # itbaima-document-database
-柏码课程笔记在线阅读
+一个有关柏码课程笔记的爬虫项目
