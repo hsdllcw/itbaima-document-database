@@ -68,7 +68,7 @@ public static void main(String[] args) {
 
 实际上它就是一个TCP连接的建立过程：
 
-![img](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fwww.reader8.cn%2Fuploadfile%2Fjiaocheng%2F201401101%2F3039%2F2014013015391315977.jpg&refer=http%3A%2F%2Fwww.reader8.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637838562&t=a22f860adb01fda478ecb76f34c34252)
+![image-20230722153750072](https://s2.loli.net/2023/07/22/N4ytU8MqTxVL26X.png)
 
 一旦TCP连接建立，服务端和客户端之间就可以相互发送数据，直到客户端主动关闭连接。当然，服务端不仅仅只可以让一个客户端进行连接，我们可以尝试让服务端一直运行来不断接受客户端的连接：
 
